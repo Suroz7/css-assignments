@@ -72,16 +72,18 @@ section {
 .d {
     background: #dfdfdf66;
 }
+
 .heotext p {
     display: flex;
     flex-direction: column;
     justify-content: end;
-  }
+}
 
 body {
 
     display: flex;
     flex-direction: column;
+    margin: 0;
 }
 
 .headline {
